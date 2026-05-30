@@ -16,6 +16,8 @@
 
 ## 🚀 About Me
 
+🔭 Currently working on Open Source Contributions and Java Full Stack Projects
+
 🎓 Bachelor of Computer Applications (BCA) – Final Semester Completed
 
 💼 Completed 6-Month Java Full Stack Developer Training & Internship
@@ -44,7 +46,7 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,30 +54,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Languages
-
-* ☕ Java
-* ⚡ JavaScript
-* 🗄️ SQL
-
-### Frontend
-
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
-
-### Backend
-
-* ☕ Core Java
-
-### Database
-
-* 🗄️ MySQL
 
 ### Tools & Platforms
 
-* 🔧 Git
-* 🐙 GitHub
 * 💻 VS Code
 * 🚀 IntelliJ IDEA
 * 🖥️ Windows
@@ -85,9 +66,9 @@
 
 ## 🚀 Featured Projects
 
-- Java Management System
-- SQL Database Project
-- Open Source Contributions (LinkID & Checkora)
+- Java Management System – Console-based application built with Java
+- SQL Database Project – MySQL database design and query implementation
+- Open Source Contributions – LinkID and Checkora
 
 ---
 
