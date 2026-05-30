@@ -1,71 +1,88 @@
 <h1 align="center">Hi 👋, I'm Yashi Singhal</h1>
 
-<h3 align="center">Java Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">Java Full Stack Developer | Open Source Contributor | BCA Graduate</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashisinghal-java">LinkedIn</a> •
-  <a href="mailto:yashi.singhal410@gmail.com">Email</a>
+  <a href="mailto:yashi.singhal410@gmail.com">Email</a> •
+  <a href="https://github.com/Yashisinghal285">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BCA Final Semester Completed (Result Awaited)
+🎓 Bachelor of Computer Applications (BCA) – Final Semester Completed, Result Awaited
 
 💼 Completed 6-Month Java Full Stack Developer Training & Internship
 
-💻 Passionate about Java Development, Web Development, and Open Source
+💻 Passionate about Software Development, Open Source, and Problem Solving
 
-🌱 Currently contributing to open-source projects and building real-world applications
+🌱 Currently contributing to Open Source projects and improving Full Stack Development skills
 
-📚 Continuously learning and improving my software development skills
+📚 Continuously learning new technologies and industry best practices
+
+⚡ Interested in Java Development, Backend Engineering, and Web Technologies
 
 ---
 
 ## 💼 Experience
 
-- Completed 6-Month Java Full Stack Developer Training & Internship
-- Worked with Java, Core Java, HTML, CSS, JavaScript, and SQL
-- Built web applications and database-driven projects
-- Gained practical experience with Git and GitHub workflows
-- Actively contributing to Open Source projects
+### Java Full Stack Developer Intern
+
+* Completed hands-on training in Java Full Stack Development
+* Developed applications using Java, HTML, CSS, JavaScript, and SQL
+* Worked with databases and CRUD operations
+* Learned Git, GitHub, version control, and collaborative development workflows
+* Built and maintained real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- ☕ Java
-- ⚡ JavaScript
-- 🗄️ SQL
+
+* ☕ Java
+* ⚡ JavaScript
+* 🗄️ SQL
 
 ### Frontend
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
+
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
 ### Backend
-- ☕ Core Java
+
+* ☕ Core Java
 
 ### Database
-- 🗄️ MySQL
 
-### Tools
-- 🔧 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 🚀 IntelliJ IDEA
+* 🗄️ MySQL
+
+### Tools & Platforms
+
+* 🔧 Git
+* 🐙 GitHub
+* 💻 VS Code
+* 🚀 IntelliJ IDEA
+* 🖥️ Windows & Linux
 
 ---
 
 ## 🌟 Open Source Contributions
 
-- LinkID
-- Checkora
-- GSSoC Projects
-- Pull Requests and Issue Fixes
-- Learning collaborative development through Open Source
+* Contributing to LinkID
+* Contributing to Checkora
+* Participating in GSSoC Projects
+* Fixing bugs and improving application features
+* Learning collaborative software development through Pull Requests and Code Reviews
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashisinghal285&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -75,28 +92,31 @@
 
 ---
 
-## 📈 GitHub Activity
+## 💻 Most Used Languages
 
-- Consistent Open Source Contributions
-- Pull Request Reviews and Fixes
-- Learning Industry-Level Development Practices
-- Building Projects and Improving Problem-Solving Skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashisinghal285&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Goals
+## 🏆 GitHub Trophies
 
-- Get more Pull Requests merged
-- Improve Java Full Stack Development skills
-- Build impactful real-world projects
-- Contribute consistently to Open Source
-- Land a Software Developer role
+![Trophy](https://github-profile-trophy.vercel.app/?username=Yashisinghal285&theme=onedark&margin-w=15)
+
+---
+
+## 🎯 2026 Goals
+
+* Get more Pull Requests merged
+* Contribute consistently to Open Source
+* Build scalable Full Stack applications
+* Strengthen Data Structures & Algorithms
+* Land a Software Developer / Java Developer role
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: yashi.singhal410@gmail.com
+📧 Email: [yashi.singhal410@gmail.com](mailto:yashi.singhal410@gmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/yashisinghal-java
 
