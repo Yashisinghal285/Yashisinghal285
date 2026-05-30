@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🎓 Bachelor of Computer Applications (BCA) – Final Semester Completed, Result Awaited
+🎓 Bachelor of Computer Applications (BCA) – Final Semester Completed
 
 💼 Completed 6-Month Java Full Stack Developer Training & Internship
 
@@ -43,6 +43,12 @@
 ---
 
 ## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Languages
 
@@ -75,19 +81,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- Java Management System
+- SQL Database Project
+- Open Source Contributions (LinkID & Checkora)
+
+---
+
 ## 🌟 Open Source Contributions
 
-* Contributing to LinkID
-* Contributing to Checkora
-* Participating in GSSoC Projects
-* Fixing bugs and improving application features
-* Learning collaborative software development through Pull Requests and Code Reviews
+* Active contributor to LinkID and Checkora
+* Participating in GSSoC 2026
+* Creating Pull Requests and fixing issues in open-source projects
+* Collaborating through Git, GitHub, and Code Reviews
+* Continuously learning software development best practices through open-source contributions
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashisinghal285\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashisinghal285&theme=tokyonight)
 
 ---
 
@@ -104,8 +118,8 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [yashi.singhal410@gmail.com](mailto:yashi.singhal410@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/yashisinghal-java
-* 🐙 GitHub: https://github.com/Yashisinghal285
+* 💼 LinkedIn: [Yashi Singhal](https://linkedin.com/in/yashisinghal-java)
+* 🐙 GitHub: [Yashisinghal285](https://github.com/Yashisinghal285)
 
 ---
 
