@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Yashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashiSinghal285&show_icons=true&theme=tokyonight)
+![Yashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashisinghal285&show_icons=true&theme=tokyonight)
 
 ---
 
