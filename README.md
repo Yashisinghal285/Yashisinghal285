@@ -23,27 +23,39 @@
 
 ---
 
+## 💼 Experience
+
+- Completed 6-Month Java Full Stack Developer Training & Internship
+- Worked with Java, Core Java, HTML, CSS, JavaScript, and SQL
+- Built web applications and database-driven projects
+- Gained practical experience with Git and GitHub workflows
+- Actively contributing to Open Source projects
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- JavaScript
-- SQL
+- ☕ Java
+- ⚡ JavaScript
+- 🗄️ SQL
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
 
 ### Backend
-- Core Java
+- ☕ Core Java
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- MySQL
+### Database
+- 🗄️ MySQL
+
+### Tools
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+- 🚀 IntelliJ IDEA
 
 ---
 
@@ -52,12 +64,8 @@
 - LinkID
 - Checkora
 - GSSoC Projects
-
----
-
-## 📊 GitHub Stats
-
-![Yashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashisinghal285&show_icons=true&theme=tokyonight)
+- Pull Requests and Issue Fixes
+- Learning collaborative development through Open Source
 
 ---
 
@@ -67,25 +75,22 @@
 
 ---
 
-## 💻 Most Used Languages
+## 📈 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashisinghal285&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Yashisinghal285&theme=onedark)
+- Consistent Open Source Contributions
+- Pull Request Reviews and Fixes
+- Learning Industry-Level Development Practices
+- Building Projects and Improving Problem-Solving Skills
 
 ---
 
 ## 🎯 Current Goals
 
-- Get Pull Requests merged in open-source projects
+- Get more Pull Requests merged
 - Improve Java Full Stack Development skills
-- Build real-world projects
+- Build impactful real-world projects
+- Contribute consistently to Open Source
 - Land a Software Developer role
-- Contribute consistently on GitHub
 
 ---
 
@@ -94,5 +99,9 @@
 📧 Email: yashi.singhal410@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/yashisinghal-java
+
+🐙 GitHub: https://github.com/Yashisinghal285
+
+---
 
 ⭐ Open to Internship, Java Developer, Full Stack Developer, and Software Engineer opportunities.
