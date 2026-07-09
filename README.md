@@ -18,7 +18,7 @@
 
 🔭 Currently working on Open Source Contributions and Java Full Stack Projects
 
-🎓 Bachelor of Computer Applications (BCA) – Final Semester Completed
+🎓 Bachelor of Computer Applications (BCA) Graduate
 
 💼 Completed 6-Month Java Full Stack Developer Training & Internship
 
