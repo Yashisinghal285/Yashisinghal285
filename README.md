@@ -1,63 +1,68 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yashi%20Singhal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Software%20Development%20%7C%20Open%20Source&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
-</p>
-
-<!-- ======================= INTRO ======================= -->
-
-<h1 align="center">👋 Hi, I'm Yashi</h1>
-
-<p align="center">
-  <b>Java Developer • Software Developer • Open Source Contributor</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:4A90D9&height=250&section=header&text=YASHI%20SINGHAL&fontSize=48&fontColor=00F0FF&fontAlignY=35&desc=Autonomous%20Systems%20%7C%20Java%20Development%20%7C%20Open%20Source&descSize=16&descAlignY=52&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  Building software, exploring open source, and learning something new every day.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;UNIT%3A+YASHI+%7C+ROLE%3A+SOFTWARE+DEVELOPER;RUNNING+DIAGNOSTIC%3A+JAVA+%7C+SPRING+BOOT+%7C+SQL;STATUS%3A+OPEN+FOR+OPPORTUNITIES" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashisinghal-java">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117"/>
   </a>
   <a href="mailto:yashi.singhal410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-00F0FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117"/>
   </a>
   <a href="https://github.com/Yashisinghal285">
-    <img src="https://img.shields.io/badge/GitHub-Yashisinghal285-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-Yashisinghal285-00F0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117"/>
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=1&section=header"/>
+</p>
 
-<!-- ======================= PROFILE ======================= -->
+<!-- ======================= UNIT PROFILE ======================= -->
 
-## 🧑‍💻 Who Am I?
+## 🛰️ Unit Profile
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ☕ My Focus
-
-- Java Development
-- Backend Development
-- Full Stack Development
-- SQL & Databases
-- REST APIs
-- Open Source
+```yaml
+unit_designation: Yashi Singhal
+class: Software Developer
+core_language: Java
+secondary_systems: [JavaScript, Python, SQL]
+mission: Full Stack Development
+status: ACTIVE — accepting new missions
+origin: BCA Graduate, 2026
+current_directive: >
+  Strengthen core algorithms, ship reliable
+  backend systems, and expand open-source
+  contribution range.
+```
 
 </td>
+<td width="45%" valign="top">
 
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Stronger Java fundamentals
-- Backend development
-- Real-world software architecture
-- Open source engineering
+```
+        ___________
+       /           \
+      |   O     O   |
+      |      ▽      |
+       \___________/
+        |    |    |
+      __|____|____|__
+     |  MODEL: YS-01 |
+     |  ROLE: DEV    |
+     |_______________|
+          |     |
+        [■]     [■]
+```
 
 </td>
 </tr>
@@ -65,267 +70,134 @@
 
 ---
 
-<!-- ======================= CURRENT MODE ======================= -->
+<!-- ======================= CORE SYSTEMS ======================= -->
 
-## 🚀 Current Mode
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/☕_Java-Working%20On-ED8B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧠_DSA-Learning-6C5CE7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌍_Open%20Source-Contributing-2EA44F?style=for-the-badge"/>
-
-</p>
+## ⚙️ Core Systems
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/💻_Projects-Building-0366D6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📚_Learning-Always-8A2BE2?style=for-the-badge"/>
-
-</p>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Technologies I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,mysql,postgresql,git,github,vscode,idea&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nextjs,postgres,mysql,fastapi,git,github,idea,vscode&perline=6"/>
 </p>
 
 <br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/JAVA-PRIMARY-00F0FF?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-BACKEND-00F0FF?style=for-the-badge&logo=spring&logoColor=000000&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/SQL-STORAGE-00F0FF?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/REST%20API-COMMS-00F0FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-00F0FF?style=for-the-badge&logo=git&logoColor=000000&labelColor=0D1117"/>
 </p>
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+<!-- ======================= MISSION STATUS ======================= -->
 
-## 🚀 Things I've Built
+## 🚦 Mission Status
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/☕_JAVA-ACTIVE-00C853?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🧠_DSA-TRAINING-FFAB00?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🛰️_OPEN_SOURCE-DEPLOYED-2979FF?style=for-the-badge&labelColor=0D1117"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_PROJECTS-BUILDING-651FFF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📡_LEARNING-CONTINUOUS-D500F9?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+---
+
+<!-- ======================= ACTIVE MISSIONS / PROJECTS ======================= -->
+
+## 🚀 Active Missions
+
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>💼 ClientFlow CRM</h3>
+### 🛰️ ClientFlow CRM
 
-<p>
-A full-stack CRM focused on managing leads,
-contacts, accounts, deals and sales activities.
-</p>
+Full-stack CRM control center for managing leads, contacts, accounts, deals, and sales activities across the pipeline.
 
-<p>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
-</p>
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL`
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>📈 NeuroTrade</h3>
+### 📡 NeuroTrade
 
-<p>
-A stock-market information platform designed
-to organize company news and information
-for investment research.
-</p>
+A stock-market intel platform that organizes company news and data streams for investment research.
 
-<p>
-<code>Web</code>
-<code>APIs</code>
-<code>Data</code>
-</p>
+`Web` `APIs` `Data`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ======================= OPEN SOURCE ======================= -->
+<!-- ======================= OPEN SOURCE OPS ======================= -->
 
-## 🌍 Open Source
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GSSoC-2026-FF69B4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-2EA44F?style=for-the-badge"/>
-
-</p>
+## 🌌 Open Source Operations
 
 <p align="center">
-  <b>Learning real-world software engineering through open source.</b>
+  <img src="https://img.shields.io/badge/GSSoC-2026-FF4081?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTOR-ACTIVE-00E676?style=for-the-badge&labelColor=0D1117"/>
 </p>
+
+<p align="center"><b>Field missions across distributed codebases.</b></p>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-
-<td align="center" width="20%">
-
-🔎
-<br><br>
-<b>Checkora</b>
-
-</td>
-
-<td align="center" width="20%">
-
-🔗
-<br><br>
-<b>LinkID</b>
-
-</td>
-
-<td align="center" width="20%">
-
-🌊
-<br><br>
-<b>Meshery</b>
-
-</td>
-
-<td align="center" width="20%">
-
-📦
-<br><br>
-<b>Apicurio</b>
-
-</td>
-
-<td align="center" width="20%">
-
-🔭
-<br><br>
-<b>OpenTelemetry</b>
-
-</td>
-
+<td align="center" width="20%">🔎<br><br><b>Checkora</b></td>
+<td align="center" width="20%">🔗<br><br><b>LinkID</b></td>
+<td align="center" width="20%">🌊<br><br><b>Meshery</b></td>
+<td align="center" width="20%">📦<br><br><b>Apicurio</b></td>
+<td align="center" width="20%">🔭<br><br><b>OpenTelemetry</b></td>
 </tr>
 </table>
 
 <br>
 
 <p align="center">
-
-<code>Issues</code>
-→
-<code>Code</code>
-→
-<code>Pull Request</code>
-→
-<code>Review</code>
-→
-<code>Merge</code>
-→
-<code>Learn</code>
-
+  <code>Issue</code> → <code>Code</code> → <code>Pull Request</code> → <code>Review</code> → <code>Merge</code> → <code>Learn</code>
 </p>
 
 ---
 
-<!-- ======================= ACHIEVEMENTS ======================= -->
+<!-- ======================= TELEMETRY ======================= -->
 
-## 🏆 Highlights
+## 📊 Telemetry
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashisinghal285&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashisinghal285&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="165"/>
+</p>
 
-<img src="https://img.shields.io/badge/🏆_GSSoC-2026-FF69B4?style=for-the-badge"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashisinghal285&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF"/>
+</p>
 
-<img src="https://img.shields.io/badge/☕_Java-Developer-ED8B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌍_Open_Source-Active-2EA44F?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashisinghal285&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=00F0FF" width="100%"/>
 </p>
 
 ---
 
-<!-- ======================= GITHUB ======================= -->
+<!-- ======================= FLIGHT PATH ======================= -->
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yashisinghal285&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashisinghal285&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+## 🧭 Flight Path
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Yashisinghal285&theme=tokyonight&hide_border=true"
-  />
+🌱 <b>Learn</b> &nbsp;→&nbsp; 💻 <b>Build</b> &nbsp;→&nbsp; 🐛 <b>Debug</b> &nbsp;→&nbsp; 🔀 <b>Contribute</b> &nbsp;→&nbsp; 🚀 <b>Improve</b>
 </p>
 
 ---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+<!-- ======================= TRANSMISSION LOG ======================= -->
 
-## 🌱 Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashisinghal285&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
-
-<!-- ======================= JOURNEY ======================= -->
-
-## 🧭 My Developer Journey
-
-<p align="center">
-
-🌱 **Learn**
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-💻 **Build**
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🐛 **Debug**
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🔀 **Contribute**
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🚀 **Improve**
-
-</p>
-
----
-
-<!-- ======================= PHILOSOPHY ======================= -->
-
-## 💭 A Few Things I Believe
+## 💭 Transmission Log
 
 > **Build more than you talk.**
 
@@ -337,21 +209,12 @@ for investment research.
 
 ---
 
-<!-- ======================= DEVELOPER MODE ======================= -->
-
-## ☕ Developer Mode
+<!-- ======================= FOOTER ======================= -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,25:2C5364,50:203A43,75:0F2027,100:000000&height=150&section=footer"/>
+</p>
 
-```text
-        ┌─────────────────────────┐
-        │       DEVELOPER         │
-        ├─────────────────────────┤
-        │                         │
-        │   ☕ Java               │
-        │   🧠 Problem Solving   │
-        │   🌍 Open Source       │
-        │   💻 Building          │
-        │   📚 Learning          │
-        │                         │
-        └─────────────────────────┘
+<p align="center">
+  <sub>⚡ End of transmission — thanks for stopping by.</sub>
+</p>
