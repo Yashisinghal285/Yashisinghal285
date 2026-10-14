@@ -40,6 +40,7 @@ secondary_systems: [JavaScript, Python, SQL]
 mission: Full Stack Development
 status: ACTIVE — accepting new missions
 origin: BCA Graduate, 2026
+contributions: [OpenTelemetry, Apache Maven, Meshery]
 current_directive: >
   Strengthen core algorithms, ship reliable
   backend systems, and expand open-source
@@ -49,7 +50,7 @@ current_directive: >
 </td>
 <td width="45%" valign="top">
 
-```
+```text
         ___________
        /           \
       |   O     O   |
@@ -140,6 +141,8 @@ A stock-market intel platform that organizes company news and data streams for i
 ## 🌌 Open Source Operations
 
 <p align="center">
+  <img src="https://img.shields.io/badge/CNCF-CONTRIBUTOR-0086FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/APACHE-CONTRIBUTOR-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/GSSoC-2026-FF4081?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/CONTRIBUTOR-ACTIVE-00E676?style=for-the-badge&labelColor=0D1117"/>
 </p>
@@ -150,11 +153,11 @@ A stock-market intel platform that organizes company news and data streams for i
 
 <table width="100%">
 <tr>
-<td align="center" width="20%">🔎<br><br><b>Checkora</b></td>
-<td align="center" width="20%">🔗<br><br><b>LinkID</b></td>
-<td align="center" width="20%">🌊<br><br><b>Meshery</b></td>
-<td align="center" width="20%">📦<br><br><b>Apicurio</b></td>
-<td align="center" width="20%">🔭<br><br><b>OpenTelemetry</b></td>
+<td align="center" width="20%">🔭<br><br><b>OpenTelemetry</b><br><sub>CNCF</sub></td>
+<td align="center" width="20%">🌊<br><br><b>Meshery</b><br><sub>CNCF</sub></td>
+<td align="center" width="20%">📦<br><br><b>Apicurio</b><br><sub>Red Hat</sub></td>
+<td align="center" width="20%">🔎<br><br><b>Checkora</b><br><sub>Open Source</sub></td>
+<td align="center" width="20%">🔗<br><br><b>LinkID</b><br><sub>Open Source</sub></td>
 </tr>
 </table>
 
