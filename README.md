@@ -1,28 +1,26 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:4A90D9&height=250&section=header&text=YASHI%20SINGHAL&fontSize=48&fontColor=00F0FF&fontAlignY=35&desc=Cloud%20Native%20%7C%20Java%20%26%20TypeScript%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=52&animation=fadeIn"/>
+  <img src="./assets/header.svg" alt="Yashi Singhal Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;UNIT%3A+YASHI+%7C+ROLE%3A+SOFTWARE+DEVELOPER;CORE%3A+JAVA+%7C+TYPESCRIPT+%7C+OPENTELEMETRY;STATUS%3A+OPEN+FOR+OPPORTUNITIES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;UNIT%3A+YASHI+%7C+ROLE%3A+SOFTWARE+DEVELOPER;CORE%3A+JAVA+%7C+TYPESCRIPT+%7C+OPENTELEMETRY;STATUS%3A+OPEN+FOR+OPPORTUNITIES" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashisinghal-java">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:yashi.singhal410@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-00F0FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-00F0FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://github.com/Yashisinghal285">
-    <img src="https://img.shields.io/badge/GITHUB-Yashisinghal285-00F0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/GITHUB-Yashisinghal285-00F0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=1&section=header"/>
-</p>
+---
 
 <!-- ======================= UNIT PROFILE ======================= -->
 
@@ -76,9 +74,9 @@ current_directive: >
 ## 🌌 Featured Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CNCF-CONTRIBUTOR-0086FF?style=for-the-badge&logo=cncf&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/APACHE-CONTRIBUTOR-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/OPENTELEMETRY-GENAI-00F0FF?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/CNCF-CONTRIBUTOR-0086FF?style=for-the-badge&logo=cncf&logoColor=white&labelColor=0D1117" alt="CNCF Contributor"/>
+  <img src="https://img.shields.io/badge/APACHE-CONTRIBUTOR-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0D1117" alt="Apache Contributor"/>
+  <img src="https://img.shields.io/badge/OPENTELEMETRY-GENAI-00F0FF?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=0D1117" alt="OpenTelemetry GenAI"/>
 </p>
 
 <br>
@@ -133,17 +131,17 @@ current_directive: >
 ## ⚙️ Core Systems & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,postgres,mysql,fastapi,git,github,idea,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,postgres,mysql,fastapi,git,github,idea,vscode&perline=7" alt="Skill Icons"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-PRIMARY-00F0FF?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-ADVANCED-00F0FF?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-BACKEND-00F0FF?style=for-the-badge&logo=spring&logoColor=000000&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/OPENTELEMETRY-OBSERVABILITY-00F0FF?style=for-the-badge&logo=opentelemetry&logoColor=000000&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL-STORAGE-00F0FF?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/JAVA-PRIMARY-00F0FF?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=0D1117" alt="Java"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-ADVANCED-00F0FF?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=0D1117" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-BACKEND-00F0FF?style=for-the-badge&logo=spring&logoColor=000000&labelColor=0D1117" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/OPENTELEMETRY-OBSERVABILITY-00F0FF?style=for-the-badge&logo=opentelemetry&logoColor=000000&labelColor=0D1117" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/SQL-STORAGE-00F0FF?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=0D1117" alt="PostgreSQL"/>
 </p>
 
 ---
@@ -180,11 +178,11 @@ A market intelligence platform aggregating company filings, real-time news strea
 ## 📊 Telemetry
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashisinghal285&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF"/>
+  <img src="https://streak-stats.demolab.com?user=Yashisinghal285&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashisinghal285&color=00F0FF&style=for-the-badge&label=PROFILE%20VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Yashisinghal285&color=00F0FF&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -206,7 +204,7 @@ A market intelligence platform aggregating company filings, real-time news strea
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,25:2C5364,50:203A43,75:0F2027,100:000000&height=150&section=footer"/>
+  <img src="./assets/footer.svg" alt="Footer Banner" width="100%"/>
 </p>
 
 <p align="center">
